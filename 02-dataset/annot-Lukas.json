@@ -1,0 +1,71 @@
+{
+    "10eb00ba-867e-4725-83a3-65a9ab89f57e":
+    {
+        "bboxes":
+        [
+            [
+                0.31553398,
+                0.26822916,
+                0.33148400,
+                0.20937500
+            ]
+        ],
+        "labels":
+        [
+            "rock"
+        ],
+        "landmarks":
+        [
+        ],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": ""
+    },
+
+    "27ff4257-8019-4f42-97ad-46b09e943d07":
+    {
+        "bboxes":
+        [
+            [
+                0.29472954,
+                0.33437500,
+                0.33772538,
+                0.52500000
+            ]
+        ],
+        "labels":
+        [
+            "peace"
+        ],
+        "landmarks":
+        [
+        ],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": ""
+    },
+
+    "191c4d8c-1727-49c4-9135-d001e675196e":
+    {
+        "bboxes":
+        [
+            [
+                0.23717059,
+                0.33645833,
+                0.49237170,
+                0.20625000
+            ]
+        ],
+        "labels":
+        [
+            "like"
+        ],
+        "landmarks":
+        [
+        ],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": ""
+    }
+
+}
