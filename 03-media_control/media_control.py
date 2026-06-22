@@ -92,7 +92,7 @@ while 1:
         break
 
     match detect_pose():
-        case 'fist':
+        case 'stop':
             # Play media
             print("Pressing Play/Pause...")
             keyboard.press(Key.media_play_pause)
@@ -107,11 +107,11 @@ while 1:
             print("Pressing Volume down...")
             keyboard.press(Key.media_volume_down)
             keyboard.release(Key.media_volume_down)
-        case 'stop':
-            # Pause media
-            print("Pressing Stop...")
-            keyboard.press(Key.media_stop)
-            keyboard.release(Key.media_stop)
+        case 'fist':
+            # Next Track
+            print("Pressing Next track...")
+            keyboard.press(Key.media_next)
+            keyboard.release(Key.media_next)
         case _:
             sleep(0.016)
 

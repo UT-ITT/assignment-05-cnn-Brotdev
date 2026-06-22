@@ -18,8 +18,8 @@ To prevent accidentially triggering an input, the input is debounced (using a co
 
 
 The following **Controls** have been implemented:<br>
+`Stop`:     Start/Pause media<br>
 `Like`:     Increase Volume<br>
 `Dislike`:  Decrease Volume<br>
-`Fist`:     Start/Pause media<br>
-`Stop`:     Stop media<br>
+`Fist`:     Next track<br>
 `Q`: Exit application
